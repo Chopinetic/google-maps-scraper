@@ -35,8 +35,9 @@ Tu peux modifier `scrape.js` selon tes besoins pour cibler différentes recherch
 - Respecte les conditions d'utilisation de Google Maps.
 
 ## Auteur
-- @ton_pseudo
+- @Chopinetic
 
 ---
-N'hésite pas à ouvrir une issue ou une PR pour améliorer le projet !
+
 # google-maps-scraper
+ceci est un exemple afin de montrer je suis capable, je ne compte pas poster du code utilisable en production, vous etes reponsable de ce que vous allez faire avec car le scrapping peut etre illegal suivant les conditions d'utilisations des données, si besoin de quelques choses de plus complexe ou une autre fonctionnalité, n'hésitez pas a me le demander je suis ouvert a toute demande de collaboration professionnel !!!!

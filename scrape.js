@@ -38,7 +38,7 @@ async function testPhoneExtraction(query = 'plombier Lyon') {
     // Attendre les résultats
     await page.waitForSelector('.UaQhfb.fontBodyMedium, .hfpxzc', { timeout: 15000 });
     
-    console.log('\n🎯 === EXTRACTION AVEC LES NOUVEAUX SÉLECTEURS ===\n');
+    console.log('\n === EXTRACTION AVEC LES NOUVEAUX SÉLECTEURS ===\n');
     
     // Extraire les données avec les sélecteurs découverts via DOM inspection
     const results = await page.evaluate(() => {
