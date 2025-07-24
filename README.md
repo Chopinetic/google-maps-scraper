@@ -10,7 +10,7 @@ Ce projet est un script Node.js permettant de scraper des informations depuis Go
 1. Clone le dépôt :
    ```sh
    git clone <repo_url>
-   cd google-maps-scrap
+   cd google-maps-scraper
    ```
 2. Installe les dépendances :
    ```sh
